@@ -22,6 +22,6 @@ After:
 
 BepInEx plugin required: https://github.com/BepInEx/BepInEx
 
-1. Download the mod [from here](---)
+1. Download the mod [from here](https://github.com/lucas-xk/Erenshor-Remove-UI-Borders/releases)
 3. Copy the compiled DLL into BepInEx plugins folder.
 4. Run the game and the mod will automatically remove the borders.
