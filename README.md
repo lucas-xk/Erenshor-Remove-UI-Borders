@@ -1,6 +1,6 @@
-Erenshor Remove UI Borders Mod
+# Erenshor Remove UI Borders Mod
 
-This mod removes the black borders / lines from the UI windows.
+## This mod removes the black borders / lines from the UI windows.
 
 - Player HP/MP window
 - Party HP/MP window
